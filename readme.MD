@@ -24,6 +24,7 @@ Aula prática: modelos de posição latente, detecção de comunidades
 
 ### Aula 3
 
+
 Modelos exponenciais de redes aleatórias (ERGMs)
 
 Regressão em redes, inferência de estrutura central e periférica
